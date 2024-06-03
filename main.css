@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+}
+
+#overflow {
+    visibility: hidden;
+    color: red;
+    opacity: 0;
+}
+
+#postscroll-cut.strikethrough {
+    text-decoration: line-through;
+}
